@@ -1,0 +1,9 @@
+<descriptor>
+  <version>1.0</version>
+  <accesses>
+    <access>led</access>
+    <access>ears</access>
+    <access>tts</access>
+  </accesses>
+  <deployment>external</deployment>
+</descriptor>
